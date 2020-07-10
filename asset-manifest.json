@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tienda-fotos/static/css/main.e4be8b79.chunk.css",
+    "main.js": "/tienda-fotos/static/js/main.415ace9f.chunk.js",
+    "main.js.map": "/tienda-fotos/static/js/main.415ace9f.chunk.js.map",
+    "runtime-main.js": "/tienda-fotos/static/js/runtime-main.6e2c2953.js",
+    "runtime-main.js.map": "/tienda-fotos/static/js/runtime-main.6e2c2953.js.map",
+    "static/js/2.991255ff.chunk.js": "/tienda-fotos/static/js/2.991255ff.chunk.js",
+    "static/js/2.991255ff.chunk.js.map": "/tienda-fotos/static/js/2.991255ff.chunk.js.map",
+    "index.html": "/tienda-fotos/index.html",
+    "precache-manifest.7887ac2c6108741608a7bd9ed581feee.js": "/tienda-fotos/precache-manifest.7887ac2c6108741608a7bd9ed581feee.js",
+    "service-worker.js": "/tienda-fotos/service-worker.js",
+    "static/css/main.e4be8b79.chunk.css.map": "/tienda-fotos/static/css/main.e4be8b79.chunk.css.map",
+    "static/js/2.991255ff.chunk.js.LICENSE.txt": "/tienda-fotos/static/js/2.991255ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e2c2953.js",
+    "static/js/2.991255ff.chunk.js",
+    "static/css/main.e4be8b79.chunk.css",
+    "static/js/main.415ace9f.chunk.js"
+  ]
+}
